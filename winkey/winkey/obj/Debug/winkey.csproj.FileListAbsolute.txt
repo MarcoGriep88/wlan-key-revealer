@@ -1,0 +1,7 @@
+C:\Users\Griep.Marco\source\repos\winkey\winkey\bin\Debug\winkey.exe.config
+C:\Users\Griep.Marco\source\repos\winkey\winkey\bin\Debug\winkey.exe
+C:\Users\Griep.Marco\source\repos\winkey\winkey\bin\Debug\winkey.pdb
+C:\Users\Griep.Marco\source\repos\winkey\winkey\obj\Debug\winkey.csprojAssemblyReference.cache
+C:\Users\Griep.Marco\source\repos\winkey\winkey\obj\Debug\winkey.csproj.CoreCompileInputs.cache
+C:\Users\Griep.Marco\source\repos\winkey\winkey\obj\Debug\winkey.exe
+C:\Users\Griep.Marco\source\repos\winkey\winkey\obj\Debug\winkey.pdb

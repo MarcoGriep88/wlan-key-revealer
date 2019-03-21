@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winkey", "winkey\winkey.csproj", "{902347F7-500B-4CC9-8DF0-222F03AD0EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{902347F7-500B-4CC9-8DF0-222F03AD0EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902347F7-500B-4CC9-8DF0-222F03AD0EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902347F7-500B-4CC9-8DF0-222F03AD0EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902347F7-500B-4CC9-8DF0-222F03AD0EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C584C0-4166-41D3-8957-2744E0CC7E9A}
+	EndGlobalSection
+EndGlobal
