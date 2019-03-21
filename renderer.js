@@ -11,7 +11,8 @@ $(function() {
           return;
         }
         document.getElementById('output').innerText= stdout;
-        $('#bodyRender').css("background-image", "url()");  
+        //$('#bodyRender').css("background-image", "url()");  
+        $('.lds-ellipsis').css("display", "none");  
         console.log(`stderr: ${stderr}`);
       });
 });

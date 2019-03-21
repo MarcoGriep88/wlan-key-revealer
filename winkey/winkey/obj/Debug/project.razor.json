@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Repositorys\\wlan-key-revelear\\winkey\\winkey\\winkey.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
