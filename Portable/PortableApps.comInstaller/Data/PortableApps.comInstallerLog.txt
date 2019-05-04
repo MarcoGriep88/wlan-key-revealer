@@ -1,0 +1,23 @@
+Processing script file: "C:\Users\Griep\Downloads\AppTemplate\Other\Source\PortableApps.comInstaller.nsi" (UTF8)
+warning 7010: File: "..\..\Other\*.*" -> no files found. (C:\Users\Griep\Downloads\AppTemplate\Other\Source\PortableApps.comInstaller.nsi:1571)
+
+Processed 1 file, writing output (x86-unicode):
+warning 6001: Variable "PAcLocaleID" not referenced or never set, wasting memory!
+
+Output: "C:\Users\Griep\Downloads\WLAN-KeyRevealer_1.0.0.0_English.paf.exe"
+Install: 4 pages (256 bytes), 1 section (16408 bytes), 2001 instructions (56028 bytes), 2128 strings (15596 bytes), 1 language table (326 bytes).
+Datablock optimizer saved 618012 bytes (~0.4%).
+
+Using lzma (compress whole) compression.
+
+EXE header size:              138752 / 38400 bytes
+Install code:                          (89102 bytes)
+Install data:                          (144000440 bytes)
+Compressed data:            42186165 / 144089542 bytes
+CRC (0xC312C0FD):                  4 / 4 bytes
+
+Total size:                 42324921 / 144127946 bytes (29.3%)
+
+2 warnings:
+  7010: File: "..\..\Other\*.*" -> no files found. (C:\Users\Griep\Downloads\AppTemplate\Other\Source\PortableApps.comInstaller.nsi:1571)
+  6001: Variable "PAcLocaleID" not referenced or never set, wasting memory!
